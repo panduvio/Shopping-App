@@ -3,18 +3,12 @@
 =======
 # shopping_app
 
-A new Flutter project.
+To begin with,this is an application to search for products which implement API logic and BLoC state management using clean architecture. Secondly, this is how you could use the application:
+  1. Open the application
+  2. Please kindly wait for the system fetch the data, you will see loading screen. If the products won't show after a few moment, try checking your internet connection or simply restart the application.
+  3. Once the products showed up, you can access it.
+  4. Scroll down for more products
+  5. Tap product to see the details
+  6. Tap search feature if you want to look for specific product.
+  7. Add to Cart feature is under maintenance. Later, you can save products you want and keep it for later.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 6e75c91 (First Commit)
